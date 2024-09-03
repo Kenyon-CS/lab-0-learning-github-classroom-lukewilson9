@@ -1,0 +1,26 @@
+Enter a word: Enter the filename containing the list of words: Anagrams found for the word 'bare':
+1. bare
+2. bear
+3. brae
+Enter a word: Enter the filename containing the list of words: Anagrams found for the word 'reed':
+1. deer
+2. dere
+3. dree
+4. rede
+5. reed
+Enter a word: Enter the filename containing the list of words: Anagrams found for the word 'clam':
+1. calm
+2. clam
+Enter a word: Enter the filename containing the list of words: Anagrams found for the word 'goat':
+1. goat
+2. toag
+3. toga
+Enter a word: Enter the filename containing the list of words: Anagrams found for the word 'tuna':
+1. antu
+2. aunt
+3. natu
+4. naut
+5. taun
+6. tuan
+7. tuna
+8. unta
